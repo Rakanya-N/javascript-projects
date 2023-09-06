@@ -1,0 +1,48 @@
+body{
+background-color: #ff9b9b;
+margin: 0;
+}
+#wrapper{
+    background-color: #fffec4;
+    width: 400px;
+    height: 450px;
+    margin: 100px 500px;
+    padding: 10px 5px;
+
+}
+#wrapper div, h1,button{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: brown;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+select{
+    width: 150px;
+    height: 2em;
+    border-radius: 5px;
+    background-color: #cbffa9;
+    border: 3px solid #cbffa9;
+    color: brown;
+
+}
+button{
+    background-color: #cbffa9 ;
+    color: brown;
+    border-radius: 5px;
+    width: 100px;
+    height:2em;
+    border: 3px solid #cbffa9;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+button:hover{
+    cursor:pointer;
+  }
+  #result{
+    color: brown;
+    margin: 20px 20px;
+    font-size: 18px;
+  }
