@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    font-weight: 600;
+}
+.players{
+    /*display: grid;
+    grid-row: 1fr 1fr;
+    display: flex;
+    flex-direction: row;*/
+ color: aquamarine;
+ font-size: large;
+ font-weight: 600;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
